@@ -1,4 +1,4 @@
-Please feel free to open an issue or create a pull request.
+Please feel free to [open an issue](https://github.com/numerique-gouv/lasuite-documentation/issues/new) or create a pull request.
 
 Please do not use text or code that you didn't write yourself.
 
