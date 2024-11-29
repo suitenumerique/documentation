@@ -1,11 +1,10 @@
 # Introduction
 
-[code.gouv.fr](https://code.gouv.fr) proposes [an english overview of
-La Suite](https://code.gouv.fr/en/lasuite/). This repository serves as
-a stub for storing documentation resources around La Suite, with a
-focus on open source.
+This repository is a stub for storing documentation resources around *La Suite*, with a focus on open source.
 
-# La Suite core services and products
+[code.gouv.fr](https://code.gouv.fr) proposes [an english overview of *La Suite*](https://code.gouv.fr/en/lasuite/).
+
+# *La Suite* core services and products
 
 [lasuite.numerique.gouv.fr/products](https://lasuite.numerique.gouv.fr/products)
 lists the current core products that are part of La Suite:
@@ -23,7 +22,7 @@ lists the current core products that are part of La Suite:
 
 # TODO Upstream contributions
 
-Here we list the main sources of information to keep track of upstream contributions made by DINUM and other French ministries while working on La Suite.
+Here we list the main sources of information to keep track of upstream contributions made by DINUM and other French ministries while working on *La Suite*.
 
 # License
 
