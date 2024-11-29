@@ -25,3 +25,8 @@ lists the current core products that are part of La Suite:
 # Upstream contributions
 
 TBA.
+# License
+
+2024 DINUM, Bastien Guerry.
+
+The data is published under the [Etalab 2.0 license](LICENSES/LICENSE.Etalab-2.0.md) or, optionally, [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
