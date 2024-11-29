@@ -24,6 +24,10 @@ lists the current core products that are part of La Suite:
 
 Here we list the main sources of information to keep track of upstream contributions made by DINUM and other French ministries while working on *La Suite*.
 
+# Contribute
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 # License
 
 2024 DINUM, Bastien Guerry.
