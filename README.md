@@ -24,6 +24,18 @@ lists the current core products that are part of La Suite:
 
 Here we list the main sources of information to keep track of upstream contributions made by DINUM and other French ministries while working on *La Suite*.
 
+| La Suite component                                                     | Contributions                                                                                            |
+|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| [tchap.beta](https://tchap.beta.gouv.fr)                               | TBA                                                                                                      |
+| [francetransfert.numerique](https://francetransfert.numerique.gouv.fr) | N/A                                                                                                      |
+| [webinaire.numerique](https://webinaire.numerique.gouv.fr)             | TBA                                                                                                      |
+| [webconf.numerique](https://webconf.numerique.gouv.fr)                 | TBA                                                                                                      |
+| [resana.numerique](https://resana.numerique.gouv.fr)                   | N/A                                                                                                      |
+| [grist.numerique](https://grist.numerique.gouv.fr)                     | [Contributions to Grist-core](https://github.com/gristlabs/grist-core/issues?q=is%3Aissue+label%3Aanct+) |
+| [docs.numerique](https://docs.numerique.gouv.fr)                       | [impress](https://github.com/numerique-gouv/impress)                                                     |
+| [webmail.numerique](https://webmail.numerique.gouv.fr)                 | TBA                                                                                                      |
+
+
 # Contribute
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
