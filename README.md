@@ -42,6 +42,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 # License
 
-2024 DINUM, Bastien Guerry.
+2024-2025 DINUM, Bastien Guerry.
 
 The data is published under the [Etalab 2.0 license](LICENSES/LICENSE.Etalab-2.0.md) or, optionally, [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
