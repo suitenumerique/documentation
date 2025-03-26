@@ -1,13 +1,10 @@
 # Introduction
 
-This repository is a stub for storing documentation resources around *La Suite*, with a focus on open source.
+This repository aims at providing some minimal documentation for *La Suite*, with a focus on open source.
 
-[code.gouv.fr](https://code.gouv.fr) proposes [an english overview of *La Suite*](https://code.gouv.fr/en/lasuite/).
+See [lasuite.numerique.gouv.fr](https://lasuite.numerique.gouv.fr).
 
 # *La Suite* core services and products
-
-[lasuite.numerique.gouv.fr/products](https://lasuite.numerique.gouv.fr/products)
-lists the current core products that are part of La Suite:
 
 | Interministerial URL                                                   | Source code                                                                                                          | License          | Open source main dependency                                                                             | Interminis. instance support                                                                                                                                                                                                             | User doc                                    | Dev doc                                                                       |
 |------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------------------------------------------------------------------------|
@@ -33,7 +30,7 @@ Here we list the main sources of information to keep track of upstream contribut
 | [webconf.numerique](https://webconf.numerique.gouv.fr)                 | TBA                                                                                                      |
 | [resana.numerique](https://resana.numerique.gouv.fr)                   | N/A                                                                                                      |
 | [grist.numerique](https://grist.numerique.gouv.fr)                     | [Contributions to Grist-core](https://github.com/gristlabs/grist-core/issues?q=is%3Aissue+label%3Aanct+) |
-| [docs.numerique](https://docs.numerique.gouv.fr)                       | [docs](https://github.com/suitenumerique/docs)                                                     |
+| [docs.numerique](https://docs.numerique.gouv.fr)                       | [docs](https://github.com/suitenumerique/docs)                                                           |
 | [webmail.numerique](https://webmail.numerique.gouv.fr)                 | TBA                                                                                                      |
 
 
