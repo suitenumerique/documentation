@@ -18,6 +18,25 @@ See [lasuite.numerique.gouv.fr](https://lasuite.numerique.gouv.fr).
 | [webmail](https://webmail.numerique.gouv.fr)                 | TBA                                                                                                                  | Multiple         | [Open Xchange](https://github.com/open-xchange)                                                         | [Tchap](https://tchap.gouv.fr/#/room/#support-messagerie:agent.dinum.tchap.gouv.fr)                                                                                                                                                      |                                             |                                                                               |
 | [visio](https://visio.numerique.gouv.fr)                     | [meet](https://github.com/numerique-gouv/meet/)                                                                      | Apache-2.0       | [livekit](https://livekit.io/)                                                                          | [Formulaire grist](https://grist.numerique.gouv.fr/o/docs/forms/1YrfNP1QSSy8p2gCxMFnSf/4)                                                                                                                                                |                                             |                                                                               |
 	
+# Get in touch
+
+⚠️ **We prioritize requests by French civil servants.**
+
+- AudioConf: support@audioconf.numerique.gouv.fr 
+- Docs: docs@numerique.gouv.fr
+- France Transfert: contact@support-francetransfert.numerique.gouv.fr 
+- Grist: contact@grist.numerique.gouv.fr
+- LaSuite: contact@lasuite.numerique.gouv.fr 
+- Messagerie: support-messagerie@mail.numerique.gouv.fr 
+- Osmose: contact@osmose.numerique.gouv.fr 
+- ProConnect Fédération partenaires: support+partenaires@proconnect.gouv.fr 
+- ProConnect Fédération usagers: support+federation@proconnect.gouv.fr 
+- ProConnect Identité: support+identite@proconnect.gouv.fr
+- Resana: contact@resana.numerique.gouv.fr 
+- Tchap: support@tchap.beta.gouv.fr 
+- WebConf: contact@webconf.numerique.gouv.fr 
+- Webinaire: contact@webinaire.numerique.gouv.fr 
+
 # TODO Upstream contributions
 
 Here we list the main sources of information to keep track of upstream contributions made by DINUM and other French ministries while working on *La Suite*.
